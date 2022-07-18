@@ -147,7 +147,7 @@ hr {
 
 @media only screen and (max-width:688px) {
     .container {
-        width: 100%;
+        width: 90%;
     }
 
     .players {
@@ -160,9 +160,11 @@ hr {
 
     .blogs {
         grid-template-columns: repeat(1, 1fr);
+
     }
 
     .courses {
         grid-template-columns: repeat(1, 1fr);
+
     }
 }
